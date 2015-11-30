@@ -1,0 +1,38 @@
+{
+    "leagues": [
+        {
+            "id": "1352",    
+            "name": "Kreisliga"
+        },
+        {
+            "id": "1364",    
+            "name": "1. Kreisklasse"
+        },
+        {
+            "id": "1365",    
+            "name": "2. Kreisklasse"
+        },
+        {
+            "id": "1366",    
+            "name": "3. Kreisklasse"
+        },
+        {
+            "id": "1367",    
+            "name": "4. Kreisklasse"
+        },
+        {
+            "id": "1354",    
+            "name": "5. Kreisklasse"
+        }
+    ],
+    "url": {
+        "domain": "http://www.tt-info.net/cache/XXXX/x_sppl_ges_c_.html",    
+        "placeholder": "XXXX"
+    },
+    "keywords": [
+        "petershagen"
+    ],
+    "startFromToday": true,
+    "orderByKey": "date",
+    "ttl": 3600
+}
